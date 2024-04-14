@@ -3,8 +3,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d2988db9-2b31-44b8-8174-2558da78c846/deploy-status)](https://app.netlify.com/sites/webdev-jeopardy/deploys)
 
 
-## [Live Deployment on Netlify, Click to Play](https://webdev-jeopardy.netlify.app/)
+## [Live Deployment on Netlify, Click to Play](https://eugenemarkkorkubarasu.netlify.app/)
 
+<!-- https://eugenemarkkorkubarasu.netlify.app -->
 *Get Started:*
 
  1. Clone Repository
