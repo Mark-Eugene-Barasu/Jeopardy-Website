@@ -3,23 +3,19 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d2988db9-2b31-44b8-8174-2558da78c846/deploy-status)](https://app.netlify.com/sites/webdev-jeopardy/deploys)
 
 
-## [Live Deployment on Netlify, Click to Play](https://eugenemarkkorkubarasu.netlify.app/)
+<!-- ## [Live Deployment on Netlify, Click to Play](https://eugenemarkkorkubarasu.netlify.app/) -->
 
 <!-- https://eugenemarkkorkubarasu.netlify.app -->
 *Get Started:*
 
  1. Clone Repository
- 2. Turn on your audio (Optional... but highly reccomended!)
- 3. Open public/index.html with a server of your choice in your web browser `http-server public/`
+ 2. Open public/index.html with a server or text editor of your choice in your web browser `http-server public/`
  4. Enjoy
 
-<!-- Using Docker via [Dockerhub](https://hub.docker.com/repository/docker/airbr/webdev-jeopardy):
 
-1. `docker run -d -P --name jeopardy airbr/webdev-jeopardy` 
-2. `docker port jeopardy`
-3. Visit at the ports assigned! -->
+### Web Dev Jeopardy by Eugene Mark Korku Barasu - v4.1
+original idea was from Morgan Murrah.
 
-### Web Dev Jeopardy by Eugene Mark Korku Barasu - v4.0
 
 
 ### Current Game:
