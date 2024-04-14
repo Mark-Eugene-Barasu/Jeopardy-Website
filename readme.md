@@ -18,7 +18,7 @@
 2. `docker port jeopardy`
 3. Visit at the ports assigned! -->
 
-### Web Dev Jeopardy by Morgan Murrah - v4.0
+### Web Dev Jeopardy by Eugene Mark Korku Barasu - v4.0
 
 
 ### Current Game:
@@ -28,7 +28,7 @@
 
 This game started as one of my first ever web projects and was my first application of HTML, CSS, Javsacript and JQuery. This was my beginning. 
 
-In 2023 I have started to revisit this project for some fun and upgraded the libraries used and refactored to make them work.
+In 2024 I have started to revisit this project for some fun and upgraded the libraries used and refactored to make them work.
 
 #### Future development:
 
